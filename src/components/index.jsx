@@ -104,7 +104,7 @@ export const Footer = () => {
                 </div>
 
                 <div className="container">
-                    <h6 style={{ fontWeight: '600'}}> Made with love by <a href="https://binsoft.online">Binary Software Inc.</a></h6>
+                    <h6 style={{ fontWeight: '600'}}> Made with love by <a href="https://linkedin.com/in/jtogofe">Joel T.</a></h6>
                 </div>
             </div>
         
