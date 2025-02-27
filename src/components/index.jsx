@@ -27,8 +27,8 @@ export const Header = ({ props }) => {
             <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
             <a href="/" class="logo d-flex align-items-center">
-                 {/*<img src="assets/img/logo.png" alt="Design aid logo"/> */}
-                <h1>Design<span>Aid.</span></h1>
+                <img src="assets/img/logo.png" alt="Design aid logo"/>
+                {/* <h1>Design<span>Aid.</span></h1> */}
             </a>
 
             <i ref={mobileNavShow} onClick={openMobileNav} class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
@@ -62,6 +62,10 @@ export const Footer = () => {
             
                         <div class="col-lg-4 col-md-6">
                             <div class="footer-info">
+                                <div style={{width: '150px'}}>
+                                    <img src="/assets/img/logo.png" alt="DesignAid logo" />
+                                </div>
+
                                 <h3>Design Aid</h3>
                                 <p>
                                     No 8 Mogadishu City Centre, <br />
