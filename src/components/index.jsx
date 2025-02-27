@@ -63,7 +63,7 @@ export const Footer = () => {
                         <div class="col-lg-4 col-md-6">
                             <div class="footer-info">
                                 <div style={{width: '150px'}}>
-                                    <img src="/assets/img/logo.png" alt="DesignAid logo" />
+                                    <img width="100%" src="/assets/img/logo.png" alt="DesignAid logo" />
                                 </div>
 
                                 <h3>Design Aid</h3>
