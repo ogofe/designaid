@@ -54,7 +54,7 @@ export const ContactPage = ({ props }) => {
           <div class="row gy-4 mt-1">
   
             <div class="col-lg-6 ">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" title="mapObject" style={{border:0,  width: "100%", height: "384px"}} allowFullScreen></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d245.16784617455195!2d7.427727474799351!3d10.525415100000018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1smogadishu%20layout%20ahmadu%20bello%20way!5e0!3m2!1sen!2sng!4v1740624608540!5m2!1sen!2sng" width="600" height="450" style="border:0;" allowfullscreen="true" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
   
             <div class="col-lg-6">
