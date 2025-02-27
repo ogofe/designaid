@@ -127,7 +127,7 @@ export const Homepage = ({ props }) => {
                 <div class="card-item">
                   <div class="row">
                     <div class="col-xl-5">
-                      <div class="card-bg" style={{backgroundImage: "url(assets/img/constructions-1.jpg)"}}></div>
+                      <div class="card-bg" style={{backgroundImage: "url(assets/img/people/black-engineer-1.jpg)"}}></div>
                     </div>
                     <div class="col-xl-7 d-flex align-items-center">
                       <div class="card-body">
@@ -145,7 +145,7 @@ export const Homepage = ({ props }) => {
                 <div class="card-item">
                   <div class="row">
                     <div class="col-xl-5">
-                      <div class="card-bg" style={{backgroundImage: "url(assets/img/constructions-2.jpg)"}}></div>
+                      <div class="card-bg" style={{backgroundImage: "url(assets/img/people/black-engineer-2.jpg)"}}></div>
                     </div>
                     <div class="col-xl-7 d-flex align-items-center">
                       <div class="card-body">
@@ -159,41 +159,6 @@ export const Homepage = ({ props }) => {
                 </div>
               </div>
 
-              <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
-                <div class="card-item">
-                  <div class="row">
-                    <div class="col-xl-5">
-                      <div class="card-bg" style={{backgroundImage: "url(assets/img/constructions-1.jpg)"}}></div>
-                    </div>
-                    <div class="col-xl-7 d-flex align-items-center">
-                      <div class="card-body">
-                        <h4 class="card-title">General Construction</h4>
-                        <p>
-                          From initial concept through completion, our general construction services are characterized by precision, quality craftsmanship, and an unwavering commitment to delivering on time and on budget.
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
-                <div class="card-item">
-                  <div class="row">
-                    <div class="col-xl-5">
-                      <div class="card-bg" style={{backgroundImage: "url(assets/img/constructions-4.jpg)"}}></div>
-                    </div>
-                    <div class="col-xl-7 d-flex align-items-center">
-                      <div class="card-body">
-                        <h4 class="card-title">Estate & Housing</h4>
-                        <p>
-                          We craft residential communities that blend style, comfort, and modern functionality. Our estate developments are designed to elevate everyday living with thoughtful layouts and sustainable practices.
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
 
             </div>
 
@@ -311,7 +276,7 @@ export const Homepage = ({ props }) => {
                 <div class="swiper-slide">
                   <div class="testimonial-wrap">
                     <div class="testimonial-item">
-                      <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="Client Photo" />
+                      {/* <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="Client Photo" /> */}
                       <h3>Engr. Adamu Peter - KADSWAC</h3>
                       <h4>Director</h4>
                       <div class="stars">
@@ -333,7 +298,7 @@ export const Homepage = ({ props }) => {
                 <div class="swiper-slide">
                   <div class="testimonial-wrap">
                     <div class="testimonial-item">
-                      <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="Client Photo" />
+                      {/* <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="Client Photo" /> */}
                       <h3>John Larson</h3>
                       <h4>Entrepreneur</h4>
                       <div class="stars">
