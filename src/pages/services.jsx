@@ -9,7 +9,7 @@ export const ServicesPage = ({ props }) => {
     
           <h2>Services</h2>
           <ol>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="/">Home</a></li>
             <li>Services</li>
           </ol>
     
@@ -104,7 +104,8 @@ export const ServicesPage = ({ props }) => {
       </section>
     
       
-      <section id="services-cards" class="services-cards">
+      {/*
+        <section id="services-cards" class="services-cards">
         <div class="container" data-aos="fade-up">
     
           <div class="row gy-4">
@@ -151,7 +152,8 @@ export const ServicesPage = ({ props }) => {
           </div>
     
         </div>
-      </section>
+        </section>
+      */}
     
       <section id="alt-services-2" class="alt-services section-bg">
         <div class="container" data-aos="fade-up">
@@ -194,7 +196,7 @@ export const ServicesPage = ({ props }) => {
               </div>
             </div>
 
-            <div class="col-lg-6 img-bg" style={{ backgroundImage: "url('/assets/img/alt-services-2.jpg')"}} data-aos="zoom-in" data-aos-delay="100"></div>
+            <div class="col-lg-6 img-bg" style={{ backgroundImage: "url('/assets/img/people/black-engineer-2.jpg')"}} data-aos="zoom-in" data-aos-delay="100"></div>
           </div>
 
         </div>
