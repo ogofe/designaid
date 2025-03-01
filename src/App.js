@@ -22,14 +22,13 @@ function App() {
       <Router>
         <Header />
         <Routes>
-          {/*<Route path='/about'  element={<AboutPage />} />
+          <Route path='/about'  element={<AboutPage />} />
           <Route path='/projects'  element={<ProjectsPage />} />
           <Route path='/services/architectural-design' element={<ArchitecturalDesign />} />
-          <Route path='/services/estate-development' element={<EstateDevelopment />} />
           <Route path='/services/facility-management' element={<FacilityManagement />} />
           <Route path='/services/project-management' element={<ProjectManagement />} />
           <Route path='/services/industrial-construction' element={<IndustrialConstruction />} />
-          <Route path='/services' element={<ServicesPage />} />*/}
+          <Route path='/services' element={<ServicesPage />} />
           <Route path='/contact'  element={<ContactPage />} />
           <Route path='/home'  element={<Homepage />} />
           <Route path='*'  element={<Navigate to="/home" />} />
