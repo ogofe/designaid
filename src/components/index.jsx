@@ -27,7 +27,7 @@ export const Header = ({ props }) => {
             <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
             <a href="/" class="logo d-flex align-items-center">
-                <img src="assets/img/logo.png" alt="Design aid logo"/>
+                <img src="/assets/img/logo.png" alt="Design aid logo"/>
                 {/* <h1>Design<span>Aid.</span></h1> */}
             </a>
 
