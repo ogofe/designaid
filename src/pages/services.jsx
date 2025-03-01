@@ -20,76 +20,87 @@ export const ServicesPage = ({ props }) => {
       <section id="services" class="services section-bg">
         <div class="container" data-aos="fade-up">
     
-          <div class="row gy-4">
-    
-            <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-              <div class="service-item  position-relative">
-                <div class="icon">
-                  <i class="fa-solid fa-mountain-city"></i>
-                </div>
-                <h3>Nesciunt Mete</h3>
-                <p>Provident nihil minus qui consequatur non omnis maiores. Eos accusantium minus dolores iure perferendis tempore et consequatur.</p>
-                <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+        <div class="row gy-4">
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="fa-solid fa-mountain-city"></i>
               </div>
+              <h3>Industrial Construction</h3>
+              <p>
+                We deliver robust industrial facilities that integrate innovative engineering with rigorous quality standards, ensuring peak operational performance.
+              </p>
+              <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
             </div>
-    
-            <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-              <div class="service-item position-relative">
-                <div class="icon">
-                  <i class="fa-solid fa-arrow-up-from-ground-water"></i>
-                </div>
-                <h3>Eosle Commodi</h3>
-                <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p>
-                <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
-              </div>
-            </div>
-    
-            <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-              <div class="service-item position-relative">
-                <div class="icon">
-                  <i class="fa-solid fa-compass-drafting"></i>
-                </div>
-                <h3>Ledo Markt</h3>
-                <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
-                <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
-              </div>
-            </div>
-    
-            <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
-              <div class="service-item position-relative">
-                <div class="icon">
-                  <i class="fa-solid fa-trowel-bricks"></i>
-                </div>
-                <h3>Asperiores Commodit</h3>
-                <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
-                <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
-              </div>
-            </div>
-    
-            <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
-              <div class="service-item position-relative">
-                <div class="icon">
-                  <i class="fa-solid fa-helmet-safety"></i>
-                </div>
-                <h3>Velit Doloremque</h3>
-                <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem alias eius labore.</p>
-                <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
-              </div>
-            </div>
-    
-            <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-              <div class="service-item position-relative">
-                <div class="icon">
-                  <i class="fa-solid fa-arrow-up-from-ground-water"></i>
-                </div>
-                <h3>Dolori Architecto</h3>
-                <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti recusandae ducimus enim.</p>
-                <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
-              </div>
-            </div>
-    
           </div>
-    
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="fa-solid fa-arrow-up-from-ground-water"></i>
+              </div>
+              <h3>Remodeling</h3>
+              <p>
+                Transform your space with our expert remodeling services that rejuvenate and modernize existing structures while maintaining their unique character.
+              </p>
+              <a href="/contact" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="fa-solid fa-compass-drafting"></i>
+              </div>
+              <h3>Architectural Design</h3>
+              <p>
+                Our design team crafts visionary spaces that are both innovative and functional, tailored to your specific needs while setting new industry standards.
+              </p>
+              <a href="/contact" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="fa-solid fa-trowel-bricks"></i>
+              </div>
+              <h3>Estate Building</h3>
+              <p>
+                We develop communities that blend contemporary design with sustainable living, creating estate projects that serve as modern sanctuaries.
+              </p>
+              <a href="/contact" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="fa-solid fa-helmet-safety"></i>
+              </div>
+              <h3>Project Management</h3>
+              <p>
+                Our experienced project managers ensure every phase of your project is seamlessly coordinated, delivering exceptional results on time and within budget.
+              </p>
+              <a href="/contact" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="fa-solid fa-arrow-up-from-ground-water"></i>
+              </div>
+              <h3>Facility Management</h3>
+              <p>
+                Our comprehensive facility management services ensure your property remains at peak performance, blending proactive maintenance with modern technology.
+              </p>
+              <a href="/contact" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+            </div>
+          </div>
+
+          </div>
         </div>
       </section>
     
@@ -145,102 +156,53 @@ export const ServicesPage = ({ props }) => {
         </div>
       </section>
     
-      
       <section id="alt-services-2" class="alt-services section-bg">
         <div class="container" data-aos="fade-up">
-    
+
           <div class="row justify-content-around gy-4">
             <div class="col-lg-5 d-flex flex-column justify-content-center">
-              <h3>Non quasi officia eum nobis et rerum epudiandae rem voluptatem</h3>
-              <p>Maxime quia dolorum alias perspiciatis. Earum voluptatem sint at non. Ducimus maxime minima iste magni sit praesentium assumenda minus. Amet rerum saepe tempora vero.</p>
-    
+              <h3>Innovative Solutions for Architectural Excellence & Project Management</h3>
+              <p>At DesignAid Consult, we transform visions into reality through expert architectural designs, strategic project management, and comprehensive estate planning. Our goal is to deliver innovative, sustainable, and functional spaces that exceed client expectations.</p>
+
               <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
                 <i class="bi bi-easel flex-shrink-0"></i>
                 <div>
-                  <h4><a href="#action" class="stretched-link">Lorem Ipsum</a></h4>
-                  <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+                  <h4><a href="#action" class="stretched-link">Architectural Design</a></h4>
+                  <p>We create modern, aesthetically pleasing, and functional architectural designs tailored to meet the unique needs of our clients, ensuring every project stands out.</p>
                 </div>
               </div>
-    
+
               <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="200">
                 <i class="bi bi-patch-check flex-shrink-0"></i>
                 <div>
-                  <h4><a href="#action" class="stretched-link">Nemo Enim</a></h4>
-                  <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+                  <h4><a href="#action" class="stretched-link">Project Management</a></h4>
+                  <p>From concept to completion, we oversee projects with precision, ensuring timely delivery, cost efficiency, and superior quality.</p>
                 </div>
               </div>
-    
+
               <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
                 <i class="bi bi-brightness-high flex-shrink-0"></i>
                 <div>
-                  <h4><a href="#action" class="stretched-link">Dine Pad</a></h4>
-                  <p>Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
+                  <h4><a href="#action" class="stretched-link">Estate Planning</a></h4>
+                  <p>Our estate planning services provide strategic guidance for property development, ensuring sustainable growth and maximizing value.</p>
                 </div>
               </div>
-    
+
               <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
-                <i class="bi bi-brightness-high flex-shrink-0"></i>
+                <i class="bi bi-building flex-shrink-0"></i>
                 <div>
-                  <h4><a href="#action" class="stretched-link">Tride clov</a></h4>
-                  <p>Est voluptatem labore deleniti quis a delectus et. Saepe dolorem libero sit non aspernatur odit amet. Et eligendi</p>
+                  <h4><a href="#action" class="stretched-link">Facility Management</a></h4>
+                  <p>We offer professional facility management solutions to optimize building operations, maintenance, and overall efficiency for long-term functionality.</p>
                 </div>
               </div>
             </div>
-    
-            <div class="col-lg-6 img-bg" style={{backgroundImage: "url(assets/img/alt-services-2.jpg)"}} data-aos="zoom-in" data-aos-delay="100"></div>
+
+            <div class="col-lg-6 img-bg" style="background-image: url(assets/img/alt-services-2.jpg);" data-aos="zoom-in" data-aos-delay="100"></div>
           </div>
-    
+
         </div>
       </section>
-    
-      
-      <section id="alt-services" class="alt-services">
-        <div class="container" data-aos="fade-up">
-    
-          <div class="row justify-content-around gy-4">
-            <div class="col-lg-6 img-bg" style={{backgroundImage: "url(assets/img/alt-services.jpg)"}} data-aos="zoom-in" data-aos-delay="100"></div>
-    
-            <div class="col-lg-5 d-flex flex-column justify-content-center">
-              <h3>Enim quis est voluptatibus aliquid consequatur fugiat</h3>
-              <p>Esse voluptas cumque vel exercitationem. Reiciendis est hic accusamus. Non ipsam et sed minima temporibus laudantium. Soluta voluptate sed facere corporis dolores excepturi</p>
-    
-              <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="100">
-                <i class="bi bi-easel flex-shrink-0"></i>
-                <div>
-                  <h4><a href="#action" class="stretched-link">Lorem Ipsum</a></h4>
-                  <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-                </div>
-              </div>
-    
-              <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="200">
-                <i class="bi bi-patch-check flex-shrink-0"></i>
-                <div>
-                  <h4><a href="#action" class="stretched-link">Nemo Enim</a></h4>
-                  <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-                </div>
-              </div>
-    
-              <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
-                <i class="bi bi-brightness-high flex-shrink-0"></i>
-                <div>
-                  <h4><a href="#action" class="stretched-link">Dine Pad</a></h4>
-                  <p>Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
-                </div>
-              </div>
-    
-              <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
-                <i class="bi bi-brightness-high flex-shrink-0"></i>
-                <div>
-                  <h4><a href="#action" class="stretched-link">Tride clov</a></h4>
-                  <p>Est voluptatem labore deleniti quis a delectus et. Saepe dolorem libero sit non aspernatur odit amet. Et eligendi</p>
-                </div>
-              </div>
-    
-            </div>
-          </div>
-    
-        </div>
-      </section>
+
     </main>
   )
 }

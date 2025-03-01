@@ -59,11 +59,6 @@ export const Homepage = ({ props }) => {
 
           <div class="carousel-item active" style={{backgroundImage: "url(assets/img/hero-carousel/hero-carousel-1.jpg)"}}></div>
           <div class="carousel-item" style={{backgroundImage: "url(assets/img/hero-carousel/hero-carousel-2.jpg)"}}></div>
-          {/*
-<div class="carousel-item" style={{backgroundImage: "url(assets/img/hero-carousel/hero-carousel-3.jpg)"}}></div>
-          <div class="carousel-item" style={{backgroundImage: "url(assets/img/hero-carousel/hero-carousel-4.jpg)"}}></div>
-          <div class="carousel-item" style={{backgroundImage: "url(assets/img/hero-carousel/hero-carousel-5.jpg)"}}></div>
-*/}
           <a class="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
             <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
           </a>
@@ -187,7 +182,7 @@ export const Homepage = ({ props }) => {
                   <p>
                     We deliver robust industrial facilities that integrate innovative engineering with rigorous quality standards, ensuring peak operational performance.
                   </p>
-                  <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+                  <a href="/contact" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
                 </div>
               </div>
 
@@ -200,7 +195,7 @@ export const Homepage = ({ props }) => {
                   <p>
                     Transform your space with our expert remodeling services that rejuvenate and modernize existing structures while maintaining their unique character.
                   </p>
-                  <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+                  <a href="/contact" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
                 </div>
               </div>
 
@@ -213,7 +208,7 @@ export const Homepage = ({ props }) => {
                   <p>
                     Our design team crafts visionary spaces that are both innovative and functional, tailored to your specific needs while setting new industry standards.
                   </p>
-                  <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+                  <a href="/contact" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
                 </div>
               </div>
 
@@ -226,7 +221,7 @@ export const Homepage = ({ props }) => {
                   <p>
                     We develop communities that blend contemporary design with sustainable living, creating estate projects that serve as modern sanctuaries.
                   </p>
-                  <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+                  <a href="/contact" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
                 </div>
               </div>
 
@@ -239,7 +234,7 @@ export const Homepage = ({ props }) => {
                   <p>
                     Our experienced project managers ensure every phase of your project is seamlessly coordinated, delivering exceptional results on time and within budget.
                   </p>
-                  <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+                  <a href="/contact" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
                 </div>
               </div>
 
@@ -252,7 +247,7 @@ export const Homepage = ({ props }) => {
                   <p>
                     Our comprehensive facility management services ensure your property remains at peak performance, blending proactive maintenance with modern technology.
                   </p>
-                  <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+                  <a href="/contact" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
                 </div>
               </div>
 
