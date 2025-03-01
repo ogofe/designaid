@@ -1,10 +1,15 @@
+import { useEffect } from "react";
 
 
 
 export const ServicesPage = ({ props }) => {
+  useEffect(() => {
+    window.aos_init();
+  }, [])
+
   return(
     <main id="main">      
-      <div class="breadcrumbs d-flex align-items-center" style={{backgroundImage: "url('assets/img/breadcrumbs-bg.jpg')"}}>
+      <div class="breadcrumbs d-flex align-items-center" style={{backgroundImage: "url('/assets/img/breadcrumbs-bg.jpg')"}}>
         <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
     
           <h2>Services</h2>
